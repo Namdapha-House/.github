@@ -7,9 +7,7 @@
 # ✨ **NAMDAPHA HOUSE — OFFICIAL HUB**
 ### _Community • Creativity • Competition • Care_
 
-<p>
-  <img src="./assets/neon-divider.gif" width="80%" alt="divider"/>
-</p>
+
 
 <!-- MAIN LOGO -->
 <p align="center">
@@ -74,10 +72,6 @@ We run a set of curated communities, host events, maintain resource hubs, and pr
 ---
 
 
-<div align="center">
-  <img src="./assets/neon-divider.gif" width="70%">
-</div>
-
 # 🧑‍💼 Core Team
 
 <details>
@@ -93,9 +87,6 @@ We run a set of curated communities, host events, maintain resource hubs, and pr
 
 ---
 
-<div align="center">
-  <img src="./assets/neon-divider.gif" width="65%">
-</div>
 
 # 🧩 Activity Communities (Quick Access)
 
@@ -182,15 +173,13 @@ We run a set of curated communities, host events, maintain resource hubs, and pr
 
 ---
 
-<div align="center">
-  <img src="./assets/neon-divider.gif" width="60%"/>
   <br><br>
   <p>
-    <a href="#" style="text-decoration:none;"><img src="https://img.shields.io/badge/LinkedIn-Namdapha_House-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
+    <a href="https://www.linkedin.com/company/namdapha-iitm" style="text-decoration:none;"><img src="https://img.shields.io/badge/LinkedIn-Namdapha_House-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
     &nbsp;
-    <a href="#" style="text-decoration:none;"><img src="https://img.shields.io/badge/GitHub-Namdapha_House-black?style=for-the-badge&logo=github" alt="github"/></a>
+    <a href="https://www.instagram.com/namdapha_iitm/" style="text-decoration:none;"><img src="https://img.shields.io/badge/GitHub-Namdapha_House-black?style=for-the-badge&logo=instagram" alt="instagram"/></a>
     &nbsp;
-    <a href="#" style="text-decoration:none;"><img src="https://img.shields.io/badge/WhatsApp-Join%20Group-brightgreen?style=for-the-badge&logo=whatsapp" alt="whatsapp"/></a>
+    <a href="https://namdapha.iitmbs.org/whatsapp" style="text-decoration:none;"><img src="https://img.shields.io/badge/WhatsApp-Join%20Group-brightgreen?style=for-the-badge&logo=whatsapp" alt="whatsapp"/></a>
   </p>
 
   <br>
