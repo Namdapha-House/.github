@@ -4,8 +4,8 @@
 <img src="./assets/glitch-header.gif" width="100%" alt="Hero Banner"/>
 <br><br>
 
-# ✨ **NAMDAPHA HOUSE — OFFICIAL HUB**
-### _Community • Creativity • Competition • Care_
+#  **NAMDAPHA HOUSE - General Student Body, IIT Madras**
+### _Legacy • Leadership • Limitless_
 
 
 
@@ -47,9 +47,9 @@ We run a set of curated communities, host events, maintain resource hubs, and pr
 
 <!-- Replace stats with real numbers when available -->
 <p>
-  <img src="https://img.shields.io/badge/Members-450+-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Members-4000+-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Active%20Groups-11-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Events-72+-cyan?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Events-100+-cyan?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Resources-150+-green?style=for-the-badge" />
 </p>
 
@@ -60,19 +60,17 @@ We run a set of curated communities, host events, maintain resource hubs, and pr
 # 📁 Get Involved — How to Join
 
 - Join the **WhatsApp communities** for quick updates and event coordination.  
-- Check the **Events** section below for upcoming activities.  
 - Interested in tech collaboration? Apply to **Geek Squad** (links in Activities).
 
 <p align="center">
-  <a href="#" style="text-decoration:none;"><img src="https://img.shields.io/badge/Join%20WhatsApp-Click%20Here-brightgreen?style=for-the-badge&logo=whatsapp" alt="whatsapp"/></a>
+  <a href="https://namdapha.iitmbs.org/whatsapp" style="text-decoration:none;"><img src="https://img.shields.io/badge/Join%20WhatsApp-Click%20Here-brightgreen?style=for-the-badge&logo=whatsapp" alt="whatsapp"/></a>
   &nbsp;
-  <a href="#" style="text-decoration:none;"><img src="https://img.shields.io/badge/Volunteer-Apply%20Now-purple?style=for-the-badge" alt="volunteer"/></a>
 </p>
 
 ---
 
 
-# 🧑‍💼 Core Team
+# 🧑‍💼 Upper House Council
 
 <details>
 <summary><b>Team Leads & Contacts</b></summary>
@@ -100,7 +98,7 @@ We run a set of curated communities, host events, maintain resource hubs, and pr
 <p align="center">
   <img src="./assets/the-podium-logo.png" width="80"/> &nbsp;
   <img src="./assets/kavya-logo.png" width="80"/> &nbsp;
-  <img src="./assets/knights-logo.png" width="80"/> &nbsp;
+  <img src="./assets/knights64-logo.png" width="80"/> &nbsp;
   <img src="./assets/firestorm-logo.png" width="80"/> &nbsp;
   <img src="./assets/clanforge-logo.png" width="80"/> &nbsp;
   <img src="./assets/battleground-logo.png" width="80"/> &nbsp;
@@ -177,12 +175,12 @@ We run a set of curated communities, host events, maintain resource hubs, and pr
   <p>
     <a href="https://www.linkedin.com/company/namdapha-iitm" style="text-decoration:none;"><img src="https://img.shields.io/badge/LinkedIn-Namdapha_House-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
     &nbsp;
-    <a href="https://www.instagram.com/namdapha_iitm/" style="text-decoration:none;"><img src="https://img.shields.io/badge/GitHub-Namdapha_House-black?style=for-the-badge&logo=instagram" alt="instagram"/></a>
+    <a href="https://www.instagram.com/namdapha_iitm/" style="text-decoration:none;"><img src="https://img.shields.io/badge/Instagram-Namdapha_House-black?style=for-the-badge&logo=instagram" alt="instagram"/></a>
     &nbsp;
     <a href="https://namdapha.iitmbs.org/whatsapp" style="text-decoration:none;"><img src="https://img.shields.io/badge/WhatsApp-Join%20Group-brightgreen?style=for-the-badge&logo=whatsapp" alt="whatsapp"/></a>
   </p>
 
   <br>
-  ✨ _Built with care • Namdapha House_ ✨
+  ✨ Built with care • Namdapha House ✨
 </div>
 
