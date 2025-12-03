@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 140" preserveAspectRatio="none" role="img" aria-label="Cyberwave Divider">
+  <defs>
+    <!-- Neon gradient -->
+    <linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0" stop-color="#7A3AE6"/>
+      <stop offset="0.45" stop-color="#A14BF2"/>
+      <stop offset="1" stop-color="#3FE7E8"/>
+    </linearGradient>
+
+    <!-- Secondary faded gradient for depth -->
+    <linearGradient id="g2" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0" stop-color="#5a2bd1"/>
+      <stop offset="1" stop-color="#1fb9b9"/>
+    </linearGradient>
+
+    <!-- Soft glow filter -->
+    <filter id="glow" x="-40%" y="-60%" width="200%" height="220%">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Thin inner glow for subtle highlight -->
+    <filter id="glow-small" x="-40%" y="-60%" width="200%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="smallBlur"/>
+      <feMerge>
+        <feMergeNode in="smallBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background transparent strip (optional subtle tint) -->
+  <rect x="0" y="0" width="1600" height="140" fill="transparent" />
+
+  <!-- Far-back wave (soft, faint) -->
+  <path d="M0,90 C200,40 400,100 600,80 C800,60 1000,120 1200,90 C1400,60 1600,110 1600,110 L1600,140 L0,140 Z"
+        fill="url(#g2)" opacity="0.18" filter="url(#glow-small)"/>
+
+  <!-- Mid wave (adds depth) -->
+  <path d="M0,95 C180,70 360,120 540,90 C720,60 900,130 1080,95 C1260,60 1440,120 1600,95 L1600,140 L0,140 Z"
+        fill="url(#g)" opacity="0.26" filter="url(#glow)"/>
+
+  <!-- Foreground sharp neon wave -->
+  <path d="M0,100 C160,30 320,140 480,85 C640,30 800,145 960,90 C1120,35 1280,145 1440,82 C1520,44 1600,88 1600,88 L1600,140 L0,140 Z"
+        fill="url(#g)" opacity="0.95" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+
+  <!-- Thin highlight line on top of foreground for crisp neon edge -->
+  <path d="M0,98 C160,28 320,138 480,83 C640,28 800,143 960,88 C1120,33 1280,143 1440,80 C1520,42 1600,86 1600,86"
+        fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1" filter="url(#glow-small)"/>
+
+  <!-- Small decorative particles (subtle dots) -->
+  <g opacity="0.35" fill="#ffffff">
+    <circle cx="120" cy="40" r="1.6"/>
+    <circle cx="420" cy="50" r="1.2"/>
+    <circle cx="740" cy="30" r="1.4"/>
+    <circle cx="1020" cy="48" r="1.2"/>
+    <circle cx="1380" cy="36" r="1.0"/>
+  </g>
+</svg>
