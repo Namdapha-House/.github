@@ -13,7 +13,7 @@
 
 <!-- MAIN LOGO -->
 <p align="center">
-  <img src="./assets/hero-animation.png" width="260" alt="Namdapha House Logo">
+  <img src="./assets/hero-animation.gif" width="260" alt="Namdapha House Logo">
 </p>
 
 </div>
@@ -73,12 +73,6 @@ We run a set of curated communities, host events, maintain resource hubs, and pr
 
 ---
 
-<div align="center">
-  <img src="./assets/neon-divider.gif" width="75%">
-</div>
-
-
----
 
 <div align="center">
   <img src="./assets/neon-divider.gif" width="70%">
@@ -94,13 +88,6 @@ We run a set of curated communities, host events, maintain resource hubs, and pr
 - **Web Admin:** *Harshita Dudeja* — namdapha-webad@ds.study.iitm.ac.in  
 
 </details>
-
-
----
-
-<div align="center">
-  <img src="./assets/cyberwave-divider.svg" width="85%">
-</div>
 
 
 
