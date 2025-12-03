@@ -1,1 +1,77 @@
+/* ============================================================== */
+/*                 NAMDAPHA HOUSE — NEON STYLE KIT               */
+/* ============================================================== */
+
+/* Neon Glow Text */
+.neon-text {
+    color: #ffffff;
+    text-shadow:
+        0 0 6px #A357F3,
+        0 0 12px #A357F3,
+        0 0 20px #7A3AE6,
+        0 0 40px #7A3AE6,
+        0 0 60px #3FE7E8;
+    font-weight: 600;
+}
+
+/* Neon Title */
+.neon-title {
+    font-size: 2.4rem;
+    color: #ffffff;
+    letter-spacing: 2px;
+    text-shadow:
+        0 0 10px #bc85ff,
+        0 0 20px #7A3AE6,
+        0 0 30px #3FE7E8;
+}
+
+/* Neon Divider Line */
+.neon-line {
+    width: 90%;
+    height: 2px;
+    background: linear-gradient(90deg, #7A3AE6, #A14BF2, #3FE7E8);
+    box-shadow:
+        0 0 10px #A14BF2,
+        0 0 20px #3FE7E8;
+    margin: 20px auto;
+}
+
+/* Futuristic Card Container */
+.neon-card {
+    background: rgba(10, 10, 15, 0.6);
+    border-radius: 12px;
+    padding: 20px;
+    border: 1px solid rgba(170, 80, 255, 0.4);
+    box-shadow:
+        0 0 12px rgba(163, 87, 243, 0.5),
+        0 0 20px rgba(63, 231, 232, 0.3);
+}
+
+/* Glowing Badges */
+.glow-badge {
+    display: inline-block;
+    padding: 6px 16px;
+    background: rgba(30, 30, 50, 0.85);
+    border: 1px solid rgba(150, 80, 255, 0.6);
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 0.85rem;
+    margin: 4px;
+
+    text-shadow: 0 0 5px #A357F3;
+    box-shadow:
+        0 0 10px rgba(170, 87, 243, 0.5),
+        0 0 15px rgba(63, 231, 232, 0.4);
+}
+
+/* Pulse Animation */
+@keyframes glowPulse {
+    0% { box-shadow: 0 0 6px #A14BF2; }
+    50% { box-shadow: 0 0 18px #3FE7E8; }
+    100% { box-shadow: 0 0 6px #A14BF2; }
+}
+
+.pulse {
+    animation: glowPulse 2s infinite ease-in-out;
+}
 
