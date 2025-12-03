@@ -98,7 +98,7 @@ We run a set of curated communities, host events, maintain resource hubs, and pr
 <p align="center">
   <img src="./assets/the-podium-logo.png" width="80"/> &nbsp;
   <img src="./assets/kavya-logo.png" width="80"/> &nbsp;
-  <img src="./assets/knights64-logo.png" width="80"/> &nbsp;
+  <img src="./assets/knights64-logo.jpeg" width="80"/> &nbsp;
   <img src="./assets/firestorm-logo.png" width="80"/> &nbsp;
   <img src="./assets/clanforge-logo.png" width="80"/> &nbsp;
   <img src="./assets/battleground-logo.png" width="80"/> &nbsp;
@@ -180,6 +180,7 @@ We run a set of curated communities, host events, maintain resource hubs, and pr
     <a href="https://namdapha.iitmbs.org/whatsapp" style="text-decoration:none;"><img src="https://img.shields.io/badge/WhatsApp-Join%20Group-brightgreen?style=for-the-badge&logo=whatsapp" alt="whatsapp"/></a>
   </p>
 
+div align="center">
   <br>
   ✨ Built with care • Namdapha House ✨
 </div>
