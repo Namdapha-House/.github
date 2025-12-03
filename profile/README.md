@@ -13,7 +13,7 @@
 
 <!-- MAIN LOGO -->
 <p align="center">
-  <img src="./assets/namdapha_logo.png" width="260" alt="Namdapha House Logo">
+  <img src="./assets/namdpaha_logo.png" width="260" alt="Namdapha House Logo">
 </p>
 
 </div>
@@ -122,7 +122,7 @@ We run a set of curated communities, host events, maintain resource hubs, and pr
 <p align="center">
   <img src="./assets/the-podium-logo.png" width="80"/> &nbsp;
   <img src="./assets/kavya-logo.png" width="80"/> &nbsp;
-  <img src="./assets/chessboard-logo.png" width="80"/> &nbsp;
+  <img src="./assets/knights-logo.png" width="80"/> &nbsp;
   <img src="./assets/firestorm-logo.png" width="80"/> &nbsp;
   <img src="./assets/clanforge-logo.png" width="80"/> &nbsp;
   <img src="./assets/battleground-logo.png" width="80"/> &nbsp;
