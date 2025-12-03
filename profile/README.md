@@ -87,9 +87,12 @@ We run a set of curated communities, host events, maintain resource hubs, and pr
 
 
 # 🧩 Activity Communities (Quick Access)
-
-> Activities are listed here for completeness — they are intentionally lower-priority on the page.  
+  
 > Click any group for details.
+>
+> Join Namdapha Activities➕
+<br>
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAu2_qHGUrILALLkdV2C6RYOg41u4GGygFykS9qE3jsFYknw/viewform" style="text-decoration:none;"><img src="https://img.shields.io/badge/WhatsApp-Join%20Group-brightgreen?style=for-the-badge&logo=whatsapp" alt="whatsapp"/></a>
 
 <details>
 <summary><b>Show / Hide All Activities (11)</b></summary>
