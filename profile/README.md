@@ -57,7 +57,7 @@ We run a set of curated communities, host events, maintain resource hubs, and pr
 
 ---
 
-# 📁 Get Involved — How to Join
+# 📁 Get Involved - How to Join
 
 - Join the **WhatsApp communities** for quick updates and event coordination.  
 - Interested in tech collaboration? Apply to **Geek Squad** (links in Activities).
@@ -183,7 +183,7 @@ We run a set of curated communities, host events, maintain resource hubs, and pr
     <a href="https://namdapha.iitmbs.org/whatsapp" style="text-decoration:none;"><img src="https://img.shields.io/badge/WhatsApp-Join%20Group-brightgreen?style=for-the-badge&logo=whatsapp" alt="whatsapp"/></a>
   </p>
 
-div align="center">
+<div align="center">
   <br>
   ✨ Built with care • Namdapha House ✨
 </div>
