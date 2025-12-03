@@ -13,7 +13,7 @@
 
 <!-- MAIN LOGO -->
 <p align="center">
-  <img src="./assets/logo.png" width="260" alt="Namdapha House Logo">
+  <img src="./assets/namdapha_logo.png" width="260" alt="Namdapha House Logo">
 </p>
 
 </div>
