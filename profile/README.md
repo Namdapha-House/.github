@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO -->
-<img src="./assets/namdapha-header.png" width="100%" alt="Hero Banner"/>
+<img src="./assets/github header logo.png" width="100%" alt="Hero Banner"/>
 <br><br>
 
 #  **NAMDAPHA HOUSE - General Student Body, IIT Madras**
