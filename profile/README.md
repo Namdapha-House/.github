@@ -12,6 +12,7 @@
 <div align="center">
   <img src="./assets/cyberwave-divider.svg" width="90%" alt="cyberwave"/>
 </div>
+
 ## 🌟 Quick Overview
 
 **Namdapha House** fosters an inclusive ecosystem for students - balancing academic support, soft-skill growth, creative outlets, and competitive events.  
