@@ -9,7 +9,9 @@
 </p>
 
 </div>
-
+<div align="center">
+  <img src="./assets/cyberwave-divider.svg" width="90%" alt="cyberwave"/>
+</div>
 ---
 
 ## 🌟 Quick Overview
@@ -19,9 +21,6 @@ We run a set of curated communities, host events, maintain resource hubs, and pr
 
 ---
 
-<div align="center">
-  <img src="./assets/cyberwave-divider.svg" width="90%" alt="cyberwave"/>
-</div>
 
 # 🎯 Our Vision & Mission
 
