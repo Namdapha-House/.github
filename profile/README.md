@@ -12,6 +12,7 @@
 <div align="center">
   <img src="./assets/cyberwave-divider.svg" width="90%" alt="cyberwave"/>
 </div>
+
 ---
 
 ## 🌟 Quick Overview
