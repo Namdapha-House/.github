@@ -5,7 +5,7 @@
 
 <!-- MAIN LOGO -->
 <p align="center">
-  <img src="./assets/hero-animation.gif" width="260" alt="Namdapha House Logo">
+  <img src="./assets/Namdapha_bg_colored.png" width="260" alt="Namdapha House Logo">
 </p>
 
 </div>
