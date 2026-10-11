@@ -75,9 +75,9 @@ We run a set of curated communities, host events, maintain resource hubs, and pr
 <details>
 <summary><b>Team Leads & Contacts</b></summary>
 
-- **Secretary:** *Devansh Malhotra* - namdapha-sec@ds.study.iitm.ac.in  
-- **Deputy Secretary:** *Sravya N* — namdapha-ds@ds.study.iitm.ac.in  
-- **Web Admin:** *Harshita Dudeja* — namdapha-webad@ds.study.iitm.ac.in  
+- **Secretary:** - namdapha-sec@ds.study.iitm.ac.in  
+- **Deputy Secretary:** — namdapha-ds@ds.study.iitm.ac.in  
+- **Web Admin:** — namdapha-webad@ds.study.iitm.ac.in  
 
 </details>
 
